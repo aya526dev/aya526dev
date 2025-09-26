@@ -1,7 +1,8 @@
 そこそこ書いてます、なので赦してください。  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya526dev&show_icons=true&theme=gotham&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)  
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya526dev&show_icons=true&theme=gotham&count_private=true
+)](https://github.com/anuraghazra/github-readme-stats)  -->
+<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=aya526dev&count_private=true&show_icons=true&locale=en&theme=gotham&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aya526dev&layout=compact&theme=gotham&hide=c,assembly,qmake,batchfile,scss)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                
