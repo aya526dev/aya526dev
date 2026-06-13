@@ -2,14 +2,19 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aya526dev&show_icons=true&theme=gotham&count_private=true
 )](https://github.com/anuraghazra/github-readme-stats)  -->
-<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=aya526dev&count_private=true&show_icons=true&locale=en&theme=gotham&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />  
+<!-- <img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=aya526dev&count_private=true&show_icons=true&locale=en&theme=gotham&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aya526dev&layout=compact&theme=gotham&hide=c,assembly,qmake,batchfile,scss)](https://github.com/anuraghazra/github-readme-stats)
                                                                                                                
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Drowse-Lab\&repo=The-four-primitives-and-Weapons\&title_color=2aa889\&icon_color=599cab\&text_color=99d1ce\&bg_color=0c1014)       
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Drowse-Lab\&repo=The-four-primitives-and-Weapons\&title_color=2aa889\&icon_color=599cab\&text_color=99d1ce\&bg_color=0c1014)        -->
+
+
 <!--                                                                                                                                                                                          
 **youran284/youran284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.                                                                      
 
 Here are some ideas to get you started:
 
 -->
+![activity](charts/activity.svg)
+![languages](charts/languages.svg)
+![contributions](charts/contributions.svg)
