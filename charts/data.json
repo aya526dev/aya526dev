@@ -1910,13 +1910,18 @@
       },
       {
         "date": "2026-06-23",
-        "count": 1,
-        "level": 1
+        "count": 5,
+        "level": 2
+      },
+      {
+        "date": "2026-06-24",
+        "count": 0,
+        "level": 0
       }
     ],
-    "total": 194
+    "total": 198
   },
   "season": "summer",
   "weather": "clear",
-  "generatedAt": "2026-06-23T14:36:47.649Z"
+  "generatedAt": "2026-06-24T02:43:33.173Z"
 }
