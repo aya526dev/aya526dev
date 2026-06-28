@@ -14,7 +14,7 @@
   "langs": [
     [
       "Java",
-      12010798
+      12125724
     ],
     [
       "JSON",
@@ -30,7 +30,7 @@
     ],
     [
       "Markdown",
-      140030
+      138921
     ],
     [
       "Python",
@@ -78,41 +78,6 @@
   ],
   "contrib": {
     "days": [
-      {
-        "date": "2025-06-22",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-06-23",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-06-24",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-06-25",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-06-26",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-06-27",
-        "count": 5,
-        "level": 2
-      },
-      {
-        "date": "2025-06-28",
-        "count": 4,
-        "level": 1
-      },
       {
         "date": "2025-06-29",
         "count": 0,
@@ -1932,11 +1897,16 @@
         "date": "2026-06-27",
         "count": 0,
         "level": 0
+      },
+      {
+        "date": "2026-06-28",
+        "count": 0,
+        "level": 0
       }
     ],
     "total": 200
   },
   "season": "summer",
   "weather": "clear",
-  "generatedAt": "2026-06-27T13:21:16.046Z"
+  "generatedAt": "2026-06-28T02:53:33.475Z"
 }
