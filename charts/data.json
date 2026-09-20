@@ -9,32 +9,16 @@
     "issues": 1,
     "reviews": 1,
     "involved": 10,
-    "repos": 6
+    "repos": 5
   },
   "langs": [
-    [
-      "Java",
-      4972192
-    ],
-    [
-      "mcfunction",
-      1934165
-    ],
     [
       "JSON",
       726719
     ],
     [
       "JavaScript",
-      179400
-    ],
-    [
-      "Common Lisp",
-      130644
-    ],
-    [
-      "Shell",
-      95172
+      171415
     ],
     [
       "CSS",
@@ -46,19 +30,19 @@
     ],
     [
       "Python",
-      63260
+      61233
+    ],
+    [
+      "Java",
+      36901
     ],
     [
       "Markdown",
       18744
     ],
     [
-      "Batchfile",
-      6079
-    ],
-    [
-      "NewLisp",
-      5210
+      "Shell",
+      7430
     ],
     [
       "YAML",
@@ -1908,5 +1892,5 @@
   },
   "season": "autumn",
   "weather": "clear",
-  "generatedAt": "2026-09-20T02:54:55.924Z"
+  "generatedAt": "2026-09-20T15:15:40.349Z"
 }
