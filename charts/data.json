@@ -4,7 +4,7 @@
   "avatar": "https://avatars.githubusercontent.com/u/165481574?v=4",
   "htmlUrl": "https://github.com/aya526dev",
   "metrics": {
-    "commits": 93,
+    "commits": 83,
     "prs": 2,
     "issues": 1,
     "reviews": 1,
@@ -405,7 +405,7 @@
       {
         "date": "2025-12-05",
         "count": 9,
-        "level": 3
+        "level": 4
       },
       {
         "date": "2025-12-06",
@@ -590,7 +590,7 @@
       {
         "date": "2026-01-11",
         "count": 8,
-        "level": 2
+        "level": 4
       },
       {
         "date": "2026-01-12",
@@ -1350,7 +1350,7 @@
       {
         "date": "2026-06-12",
         "count": 6,
-        "level": 2
+        "level": 3
       },
       {
         "date": "2026-06-13",
@@ -1370,7 +1370,7 @@
       {
         "date": "2026-06-16",
         "count": 9,
-        "level": 3
+        "level": 4
       },
       {
         "date": "2026-06-17",
@@ -1385,17 +1385,17 @@
       {
         "date": "2026-06-19",
         "count": 9,
-        "level": 3
+        "level": 4
       },
       {
         "date": "2026-06-20",
         "count": 8,
-        "level": 2
+        "level": 4
       },
       {
         "date": "2026-06-21",
         "count": 3,
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-06-22",
@@ -1405,7 +1405,7 @@
       {
         "date": "2026-06-23",
         "count": 5,
-        "level": 2
+        "level": 3
       },
       {
         "date": "2026-06-24",
@@ -1625,7 +1625,7 @@
       {
         "date": "2026-08-06",
         "count": 4,
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-08-07",
@@ -1886,11 +1886,16 @@
         "date": "2026-09-27",
         "count": 0,
         "level": 0
+      },
+      {
+        "date": "2026-09-28",
+        "count": 0,
+        "level": 0
       }
     ],
-    "total": 190
+    "total": 179
   },
   "season": "autumn",
   "weather": "clear",
-  "generatedAt": "2026-09-27T16:12:53.733Z"
+  "generatedAt": "2026-09-28T03:05:41.981Z"
 }
