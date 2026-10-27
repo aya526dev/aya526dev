@@ -9,7 +9,7 @@
     "issues": 1,
     "reviews": 0,
     "involved": 5,
-    "repos": 6
+    "repos": 8
   },
   "langs": [
     [
@@ -58,7 +58,8 @@
     ]
   ],
   "orgs": [
-    "Drowse-Lab"
+    "Drowse-Lab",
+    "Ctrl-N-Japan"
   ],
   "contrib": {
     "days": [
@@ -1902,5 +1903,5 @@
   },
   "season": "autumn",
   "weather": "clear",
-  "generatedAt": "2026-10-27T03:19:15.495Z"
+  "generatedAt": "2026-10-27T17:14:30.033Z"
 }
