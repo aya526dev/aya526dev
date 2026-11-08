@@ -4,7 +4,7 @@
   "avatar": "https://avatars.githubusercontent.com/u/165481574?v=4",
   "htmlUrl": "https://github.com/aya526dev",
   "metrics": {
-    "commits": 87,
+    "commits": 71,
     "prs": 1,
     "issues": 1,
     "reviews": 0,
@@ -63,41 +63,6 @@
   ],
   "contrib": {
     "days": [
-      {
-        "date": "2025-11-02",
-        "count": 1,
-        "level": 1
-      },
-      {
-        "date": "2025-11-03",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-11-04",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-11-05",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-11-06",
-        "count": 0,
-        "level": 0
-      },
-      {
-        "date": "2025-11-07",
-        "count": 16,
-        "level": 4
-      },
-      {
-        "date": "2025-11-08",
-        "count": 0,
-        "level": 0
-      },
       {
         "date": "2025-11-09",
         "count": 0,
@@ -1917,11 +1882,16 @@
         "date": "2026-11-07",
         "count": 0,
         "level": 0
+      },
+      {
+        "date": "2026-11-08",
+        "count": 0,
+        "level": 0
       }
     ],
     "total": 176
   },
   "season": "autumn",
   "weather": "clear",
-  "generatedAt": "2026-11-07T17:16:47.120Z"
+  "generatedAt": "2026-11-08T03:53:31.338Z"
 }
